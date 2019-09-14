@@ -26,6 +26,14 @@
                        display: block;
                        margin-bottom: 10px;      
       }
+      textarea {
+                width: 100%;
+                height: 150px;
+                padding: 12px 20px;
+                box-sizing: border-box;
+                border: 2px solid #ccc;
+                border-radius: 4px;
+      } 
     </style>
   </head>
   <body>
@@ -64,5 +72,21 @@
     <p> Freeze for at least 8 hrs or overnight. To serve, remove the ice cream from the freezer to allow it soften for 20-30 mins, then scoop into bowls or ice cream cones. The frozen ice cream will keep in the freezer for up to 3 months.</p>
     <img src="https://realfood.tesco.com/Media/images/Step-By-Step-2018-AvocadoIceCream-6-f33c4784-715a-492c-b71f-4fafea8504e5-0-636x418.jpg" alt="Paso6">  
   </div>
+  <div class="uneven">
+    <h1> Feel free to contact us!</h1>
+    <form action="/action_page.php">
+    Full name:<br>
+    <input type="text" name="firstname" value="Avocado Lover">
+    <br>
+    Your Email:<br>
+    <input type="text" name="lastname" value="avocado@lover.com">
+    <br><br>    
+    <textarea>Your message here...</textarea>
+    <br><br>
+    <input type="submit" value="Submit">
+    </form> 
+  </div>
+</body>
+</html>
   </body>
 </html>
