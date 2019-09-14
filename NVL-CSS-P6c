@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Avocado Ice Cream Recipe</title>
+    <style>
+      .uppersection {
+                     background-color: greenyellow;     
+      }      
+      div h2 {
+              color: #BDB5B5 ;      
+      } 
+      .uneven {
+               background-color:#B9EDC6;      
+      }  
+      .even {
+             background-color:#F2EEEE;      
+      } 
+      div p {
+             color: #29803F;
+             font-style: oblique;      
+      }
+      [img*="real"] {
+                       width: 150px;
+                       display: block;
+                       margin-bottom: 10px;      
+      }
+    </style>
+  </head>
+  <body>
+   <div class="uppersection">
+   <h1>Avocado Ice Cream Recipe</h1>
+   <h3>How to make avocado ice cream</h3>
+     <p>Avocados aren’t just for salads or spreading on toast. With this simple, no-churn ice cream recipe you can see how their rich, creamy texture makes them perfect for a refreshing summer ice cream that takes just 20 minutes to make. Don’t forget to screengrab the handy ingredients list at the bottom before you go shopping.</p>   
+   </div>     
+  <div class="uneven">
+    <h2>Prepare the avocados</h2>   
+    <p> Halve and stone 2 ripe avocados – if they are ripe enough, the stones should come out cleanly and you should be able to easily remove the flesh from the skin. Scoop the flesh into the bowl of a food processor and add 1 tbsp lime juice, 400g sweetened condensed milk and a pinch of salt.</p>  
+    <img src="https://realfood.tesco.com/media/images/Step-By-Step-2018-AvocadoIceCream-1-9006b7b6-e7a5-40ab-b32c-f9f4820cb473-0-636x418.jpg" alt="Paso1">  
+  </div> 
+  <div class="even">
+    <h2>Blend</h2>
+    <p>Blend the mixture for 1-2 mins until completely smooth.</p> 
+    <img src="https://realfood.tesco.com/media/images/Step-By-Step-2018-AvocadoIceCream-2-a1cad844-8234-443e-a667-ea418ad9b773-0-636x418.jpg" alt="Paso2"> 
+  </div>  
+  <div class="uneven">
+    <h2> Whip the cream </h2>  
+    <p>In a large bowl, whip 600ml double cream until just stiff, the cream should hold its shape when the whisk is lifted out but not feel too rigid.</p>
+    <img src="https://realfood.tesco.com/media/images/Step-By-Step-2018-AvocadoIceCream-3-076dfdad-d04c-4443-a507-6f44f2b150bb-0-636x418.jpg" alt="Paso3">  
+  </div>
+  <div class="even">
+    <h2>Fold together</h2>
+    <p>Add the avocado mixture to the cream and fold in gently, without beating, until completely combined with no streaks of white remaining.</p>
+    <img src="https://realfood.tesco.com/media/images/Step-By-Step-2018-AvocadoIceCream-4-f9046b0a-f5d9-4dac-b1a2-3c33a268ec3a-0-636x418.jpg" alt="Paso4">  
+  </div>
+  <div class="uneven">
+    <h2> Transfer to a container</h2>
+    <p>Transfer the mixture to a freezer-proof container and smooth the top. If lidded, cover the surface with clingfilm before securing the lid, otherwise wrap the whole container well in 2 layers of clingfilm (this will protect the ice cream from freezer burn).</p>
+    <img src="https://realfood.tesco.com/media/images/Step-By-Step-2018-AvocadoIceCream-5-01054040-7f59-43ba-b2da-bd06463c0732-0-636x418.jpg" alt="Paso5">  
+  </div>
+  <div class="even">
+    <h2>Freeze and serve</h2>  
+    <p> Freeze for at least 8 hrs or overnight. To serve, remove the ice cream from the freezer to allow it soften for 20-30 mins, then scoop into bowls or ice cream cones. The frozen ice cream will keep in the freezer for up to 3 months.</p>
+    <img src="https://realfood.tesco.com/Media/images/Step-By-Step-2018-AvocadoIceCream-6-f33c4784-715a-492c-b71f-4fafea8504e5-0-636x418.jpg" alt="Paso6">  
+  </div>
+  </body>
+</html>
